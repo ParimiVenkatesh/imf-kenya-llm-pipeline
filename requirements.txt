@@ -1,8 +1,0 @@
-pypdf
-tiktoken
-google-genai
-sentence-transformers
-faiss-cpu
-pandas
-matplotlib
-requests
